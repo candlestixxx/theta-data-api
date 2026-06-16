@@ -1,0 +1,25 @@
+{
+  "THETA_DB": {
+    "host": "",
+    "port": 3306,
+    "username": "admin",
+    "password": "",
+    "database": "",
+    "synchronize": true,
+    "autoLoadEntities": true,
+    "logging": false,
+    "extra": {
+      "charset": "utf8mb4_unicode_ci"
+    }
+  },
+  "LOG_PATH": "",
+  "MAIL": {
+    "USER": "",
+    "PASS": ""
+  },
+
+  "REDIS": {
+    "host": "",
+    "port": 6379
+  }
+}
